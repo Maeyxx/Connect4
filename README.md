@@ -22,7 +22,7 @@ You have two symbols to simule token :
 
 If you have four symbols aligned horizontally, vertically or diagonally you win the game.
 
-##### Win array example :
+##### Win array example(Player1 win) :
 # 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 | ------  | ------ | ------ | ------ |  ------ | ------ | ------ |  ------ |
