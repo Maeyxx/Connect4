@@ -10,7 +10,7 @@ This game look like [lululataupe.com (Connect 4)](https://lululataupe.com/tout-a
 Launch program and follow instructions.
 
 ## How it works ?
-If you choose any case in the array (7x7) i.e. 49 possibilities to insert a token.
+If you choose any case in the array (7x6) i.e. 42 possibilities to insert a token.
 In this game you have two players (P1 => player 1) & (P2 => player 2).
 Player 1 start the game.
 
@@ -27,12 +27,11 @@ If you have four symbols aligned horizontally, vertically or diagonally you win 
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 | ------  | ------ | ------ | ------ |  ------ | ------ | ------ |  ------ |
 | 1 | ------ | ------ |  ------ | ------ | ------ |  ------ | ------ |
-|2 | ------ | ------ |  ------ | ------ | ------ |  ------ | ------ |
-|3 | ------ | ------ |  ------ | ------ | ------ |  ------ | ------ |
-| 4 | X | ------ |  ------ | ------ | ------ |  ------ | ------ |
+| 2 | ------ | ------ |  ------ | ------ | ------ |  ------ | ------ |
+| 3 | X | ------ |  ------ | ------ | ------ |  ------ | ------ |
+| 4 | X |O |  ------ | ------ | ------ |  ------ | ------ |
 | 5 | X |O |  ------ | ------ | ------ |  ------ | ------ |
 | 6 | X | O |  ------ | ------ | ------ |  ------ | ------ |
-| 7 | X | O |  ------ | ------ | ------ |  ------ | ------ |
 | | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 
 => Result : Player 1 win
